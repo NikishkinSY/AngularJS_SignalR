@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Tasks</title>
+
+    <link href="lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="css/layout.css" rel="stylesheet" />
+
+    <!-- libraries -->
+    <script src="lib/jquery/dist/jquery.js"></script>
+    <script src="lib/jquery.signalR-2.2.0.js"></script>
+    <script src="lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/angular-messages/angular-messages.js"></script>
+    <script src="lib/angular-resource/angular-resource.js"></script>
+
+    <!-- angular app-->
+    <script src="js/app/modules/tasks/module.js"></script>
+    <script src="js/app/modules/tasks/tasks.controller.js"></script>
+    <script src="js/app/modules/tasks/tasks.service.js"></script>
+
+    <script src="js/app/app.js"></script>
+
+    <script src="js/app/global.js"></script>
+</head>
+
+<body>
+    <div class="middle-position" ng-app="app">
+
+        <div class="tasks" ng-controller="TasksController as tasks" ng-init="tasks.getTasks()">
+            <input class="btn btn-primary tasks-add" type="button" data-toggle="modal" data-target="#addTaskModal" value="Add task" ng-click="tasks.addTask()" />
+
+            <div class="tasks-list">
+                <div class="tasks-list-header row">
+                    <b class="tasks-list-cell col-xs-3">Name</b>
+                    <b class="tasks-list-cell col-xs-3">Description</b>
+                    <b class="tasks-list-cell col-xs-3">Create</b>
+                    <b class="tasks-list-cell"></b>
+                </div>
+
+                <div class="tasks-list-body">
+                    <div class="tasks-list-row row" ng-repeat="task in tasks.tasks">
+                        <div class="tasks-list-cell col-xs-3">{{ task.Name }}</div>
+                        <div class="tasks-list-cell col-xs-3">{{ task.Description }}</div>
+                        <div class="tasks-list-cell col-xs-3">{{ task.Create | date:'yyyy.MM.dd HH:mm'}}</div>
+                        <div> <input type="button" class="btn btn-danger list-tasks-btn" data-toggle="modal" data-target="#addTaskModal" ng-click="tasks.editTask(task)" value="E" /></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- modal window -->
+            <div id="addTaskModal" class="modal fade">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <input type="button" class="close" data-dismiss="modal" aria-hidden="true" value="×" />
+                            <h4 class="modal-title">{{ tasks.modalTitle }}</h4>
+                        </div>
+                        <form ng-submit="tasks.saveTask()" name="formAddTask">
+                            <div class="modal-body">
+                                <div class="tasks-filter-name row">
+                                    <div class="col-xs-2">Name</div>
+                                    <div class="col-xs-4">
+                                        <input class="form-control" name="name" type="text" step="0.01" ng-model="tasks.tempTask.Name" required />
+                                        <div ng-messages="formAddTask.name.$error">
+                                            <div class="tasks-modal-error" ng-message="required">This field is required</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tasks-filter-description row">
+                                    <div class="col-xs-2">Description</div>
+                                    <div class="col-xs-4">
+                                        <input class="form-control" name="description" type="text" ng-model="tasks.tempTask.Description" required />
+                                        <div ng-messages="formAddTask.description.$error">
+                                            <div class="tasks-modal-error" ng-message="required">This field is required</div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="modal-footer">
+                                <input type="button" class="btn btn-default" value="Close" data-dismiss="modal" />
+                                <input type="submit" class="btn btn-primary" value="Save">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

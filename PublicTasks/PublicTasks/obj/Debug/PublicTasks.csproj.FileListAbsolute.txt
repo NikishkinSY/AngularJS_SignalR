@@ -1,0 +1,112 @@
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\csc.exe
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\System.Collections.Immutable.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\vbc.exe
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\VBCSCompiler.exe
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\roslyn\VBCSCompiler.exe.config
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\PublicTasks.dll.config
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\PublicTasks.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\PublicTasks.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.Web.Infrastructure.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Newtonsoft.Json.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Net.Http.Formatting.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Helpers.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Http.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Http.WebHost.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Mvc.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Razor.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Webpages.Deployment.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Webpages.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Webpages.Razor.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Razor.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Webpages.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Webpages.Deployment.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Webpages.Razor.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Helpers.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Mvc.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Newtonsoft.Json.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Net.Http.Formatting.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Http.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\System.Web.Http.WebHost.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\obj\Debug\PublicTasks.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\obj\Debug\PublicTasks.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\obj\Debug\PublicTasks.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.Owin.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.Owin.Security.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Owin.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.Owin.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Microsoft.Owin.Security.xml
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Domain.dll
+c:\users\администратор\documents\visual studio 2015\Projects\PublicTasks\PublicTasks\bin\Domain.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\PublicTasks\PublicTasks\bin\Ninject.dll
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\PublicTasks\PublicTasks\bin\Ninject.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\csc.exe
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\vbc.exe
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\VBCSCompiler.exe
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\PublicTasks.dll.config
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\PublicTasks.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\PublicTasks.pdb
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Domain.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.Owin.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.Owin.Security.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Newtonsoft.Json.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Ninject.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Owin.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Net.Http.Formatting.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Helpers.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Http.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Http.WebHost.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Mvc.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Razor.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Webpages.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Webpages.Razor.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Domain.pdb
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.Owin.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Microsoft.Owin.Security.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Ninject.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Razor.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Webpages.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Webpages.Razor.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Helpers.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Mvc.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\Newtonsoft.Json.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Net.Http.Formatting.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Http.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\bin\System.Web.Http.WebHost.xml
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\obj\Debug\PublicTasks.csprojResolveAssemblyReference.cache
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\obj\Debug\PublicTasks.dll
+C:\Users\nikishkin\Desktop\PublicTasks\PublicTasks\PublicTasks\obj\Debug\PublicTasks.pdb

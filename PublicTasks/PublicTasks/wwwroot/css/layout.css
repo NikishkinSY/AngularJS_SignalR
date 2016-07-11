@@ -1,0 +1,43 @@
+﻿.middle-position{
+    margin:auto;
+    width:600px;
+}
+
+.tasks-add{
+    margin:10px 0;
+}
+
+.tasks-filters{
+    margin:10px 0;
+}
+
+.tasks-list{
+    margin:10px 0;
+}
+
+.tasks-list-header{
+    display: flex;
+    background: #808080; 
+}
+
+.tasks-list-body{
+}
+
+.tasks-list-row{
+    display: flex;
+    padding: 1px;
+}
+
+.tasks-list-row:nth-child(even) { 
+    background: #e1e1e1;
+}
+
+.tasks-list-cell{
+    flex-grow: 1;
+    padding:5px;
+    overflow:hidden;
+}
+
+.tasks-modal-error{
+    color: red;
+}
